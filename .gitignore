@@ -1,0 +1,25 @@
+# mbed
+.build
+.mbed
+.mbedignore
+projectfiles
+*.py*
+BUILD/*
+
+# hg
+**/.hg/*
+
+# mcuxpresso
+.cproject
+.project
+.settings/*
+makefile.targets
+*.launch
+Debug/*
+Release/*
+
+# uvision
+.link_script.sct
+*.uvguix*
+*.uvoptx
+*.uvprojx
