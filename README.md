@@ -5,6 +5,9 @@ The player's interaction with the game is primarily visual, with the player's po
 
 Players interact with the game through a serial interface to a simple controller on a computer (the WASD keys)
 
+Game Demo: https://www.youtube.com/watch?v=tvGNPR9SQfE
+Documentation: https://tinyurl.com/invisibleMazeDocumentation
+
 
 ### Wiring notes:
 | PIN         | Port            | Notes |
